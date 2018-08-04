@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SimpleDemoApp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!--Side Menu Items-->
+    <string name="action_logout">Logout</string>
+    <string name="comingsoon">Coming Soon</string>
+    <string name="web_address">https://www.blogger.com</string>
+    <string name="title_activity_login">Sign in</string>
+
+
+
+
+</resources>
